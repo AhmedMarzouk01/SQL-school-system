@@ -37,3 +37,4 @@ This project is an educational system designed to facilitate the management of e
 #### 10. Additional Configurations:
 -Configurations: Sets parameters for database growth, file size, and location to ensure optimal performance and scalability.
 
+https://github.com/AhmedMarzouk01/SQL-school-system/blob/9b37ecfdd43aa47b850050c98ee89d43eb490955/SQl%20project/erd.png
